@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Meu Site novo</title>
+</head>
+<body>
+	esse é um texto <strong>negrito</strong> <br>
+	esse é um texto <em>italico</em> <br>
+	esse é um texto <u>underline</u> <br>
+	esse é um texto <strike>errado</strike> <br>
+</body>
+</html>
