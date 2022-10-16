@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Pagina inicial</title>
+</head>
+<body>
+	<h2>Login</h2>
+	<form>
+		
+		Login:<br>
+		<input type="text" name="Login"><br>
+
+		Senha:<br>
+		<input type="password" name="Senha"><br>
+
+		<input type="submit" value="logar">
+
+	</form>
+	<h2>cadastre-se</h2>
+
+	<form>
+
+		Login<br>
+		<input type="text" name="Login"><br><br>
+
+		sexo<br>
+		<input type="radio" name="sexo" value="M"> Masculino<br>
+		<input type="radio" name="sexo" value="F"> Feminino<br><br>
+
+		interesses<br>
+		<input type="checkbox" name="interesses">Futebol<br>
+		<input type="checkbox" name="interesses">Corrida<br>
+		<input type="checkbox" name="interesses">Moda<br>
+		<input type="checkbox" name="interesses">Cursos<br>
+		<input type="checkbox" name="interesses">Fazer um nada<br>
+		<input type="checkbox" name="interesses">Trabalho<br>
+
+		Estado<br>
+		<select name="Estado">
+			
+			<option value="sp">SP</option>
+			<option value="mg">MG</option>
+			<option value="rj">RJ</option>
+		</select><br><br>
+
+		Observação:<br>
+		<textarea></textarea><br>
+
+		<input type="submit" value="Cadastar">
+
+	</form>
+
+	</select>
+
+</body>
+</html>
